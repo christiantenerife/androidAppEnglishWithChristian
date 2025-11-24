@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444166075441",
+    "project_id": "englishwithchristian-da1b8",
+    "storage_bucket": "englishwithchristian-da1b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444166075441:android:23f83a6adcb20514cb9110",
+        "android_client_info": {
+          "package_name": "com.example.englishwithchristian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbwxEk-zfwLwT6bPuyeniIhf5r79ND_6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

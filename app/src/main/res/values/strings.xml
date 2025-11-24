@@ -1,0 +1,20 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">English with Christian</string>
+
+    <!-- Main buttons -->
+    <string name="btn_grammar">Grammar</string>
+    <string name="btn_vocabulary">Vocabulary</string>
+    <string name="btn_exams">Exams</string>
+
+    <!-- Activity titles -->
+    <string name="title_activity_grammar">Grammar</string>
+    <string name="title_activity_vocabulary">Vocabulary</string>
+    <string name="title_activity_exams">Exams</string>
+
+    <!-- General UI text (optional for future use) -->
+    <string name="loading_message">Loading, please wait...</string>
+    <string name="back_to_menu">Back to Main Menu</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_auth">AuthActivity</string>
+</resources>
